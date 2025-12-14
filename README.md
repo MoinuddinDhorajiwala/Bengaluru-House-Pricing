@@ -1,5 +1,7 @@
 # Bengaluru House Price Prediction
 
+<img width="908" height="425" alt="image" src="https://github.com/user-attachments/assets/ceaa8ac5-04a4-47f7-a3c2-bb1f0c2e5568" />
+
 Lightweight Flask backend + simple client for predicting Bengaluru house prices using saved artifacts.
 
 ## Quick overview
